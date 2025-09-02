@@ -1,10 +1,6 @@
-# Ignore Obsidian workspace and cache
-**/.obsidian/workspace.json
-**/.obsidian/cache/
+# Ignore Obsidian workspace
+/.obsidian/workspace.json
+/.obsidian/cache/
 
-# Ignore plugins if you want per-device plugin setup
-**/.obsidian/plugins/
-
-# System files
-.DS_Store
-Thumbs.db
+# Ignore plugins
+/.obsidian/plugins/
