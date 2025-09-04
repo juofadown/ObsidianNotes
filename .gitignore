@@ -1,6 +1,7 @@
 # Ignore Obsidian workspace
-/.obsidian/workspace.json
-/.obsidian/cache/
+**/.obsidian/workspace.json
+**/.obsidian/cache/
+**/.obsidian
 
 # Ignore plugins
 /.obsidian/plugins/
