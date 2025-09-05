@@ -17,7 +17,7 @@
 #### Anleitung
 ##### Projektstruktur
 Um ein Projekt zu erstellen im Ziel-Ordner diesen Befehl ausführen:
-```powershell
+```bash
 npm create vite@latest my-react-app
 ```
 1. Framework -> **React** auswählen

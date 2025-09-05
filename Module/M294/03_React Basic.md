@@ -96,7 +96,7 @@ Bei Eingabe: 1, 3, 5 und der Funktion x2 ist die Ausgabe: 2, 6, 10.
 
 ```jsx
 function App() {
-    const fruits = ["Apple", "Kiwi", "Banana"]
+    const fruits/mehrzahl = ["Apple", "Kiwi", "Banana"]
     return (
         <main>
             {fruits.map((fruit) => <span>{fruit}</span>)}
@@ -108,6 +108,14 @@ function App() {
 ```jsx
 ['Apple', 'Kiwi'].map(fruit => {
     const uppercasedFruit = fruit.toUpperCase()
+    return <span>{uppercasedFruit}</span>
+})
+```
+
+
+```jsx
+['Apple', 'Kiwi'].map(einzahl => {
+    const uppercasedFruit = einzahl.toUpperCase()
     return <span>{uppercasedFruit}</span>
 })
 ```
@@ -140,7 +148,21 @@ const fruits = [
   },
 ];
 ```
+```jsx
+export default function App() {
 
+return (
+
+<main>
+
+<Fruit text={fruits[0].text} symbol={fruits[0].symbol} />
+
+</main>
+
+)
+
+}
+```
 
 ### Conditional Rendering
 

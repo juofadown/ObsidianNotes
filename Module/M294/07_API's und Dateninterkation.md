@@ -18,6 +18,22 @@ Host: example.com
 ```
 
 Hier werden die Parameter name=Max und age=30 an den Server gesendet, um z. B. nach Nutzern mit diesen Eigenschaften zu filtern.
+```jsx
+  
+export async function fetchChronicles() {
+  const response = await fetch(URL + "/chronicles", { method: "GET" });
+
+  if (!response.ok) {
+    throw new Error(
+      "Fehler: Es konnten nicht alle Chroniken geladen werden!" +
+        response.status
+    );
+  }
+  
+  const data = response.json();
+  return data;
+}
+```
 
 ##### **POST (= Daten erstellen)**  
 Mit POST-Requests werden neue Daten auf dem Server erstellt.  
@@ -36,6 +52,10 @@ Authorization: Bearer token123
   "age": 30
 }
 ```
+
+```jsx
+```
+
 
 #####  **PUT (= Daten ersetzen)**  
 Mit PUT-Requests werden bestehende Daten auf dem Server komplett ersetzt.  
