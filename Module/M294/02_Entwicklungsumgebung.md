@@ -45,7 +45,8 @@ npm run lint
 ##### Formatter
 1. In VS Code die Extension **Prettier - Code formatter** von **Prettier** herunterladen.
 2. Bei **Ctrl + P** nach "**Settings**" suchen. 
-3. In den Settings nach "**format on save**" einschalten
+3. In den Settings nach "**format on save**" einschalten.
+4. **Shift + Alt + F** den Default Formatter einstellen.
 ##### Absoluter Pfad ???
 Falls der Ordner **src** das Rootverzeichnis für Pfade sein soll, kann man diese Konfiguration erstellen.
 ```java
