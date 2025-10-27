@@ -10,3 +10,7 @@ The sizes of the data types:
 | `bool`    | 1 byte                | Stores true or false values                                                       |
 | `char`    | 2 bytes               | Stores a single character/letter, surrounded by single quotes                     |
 | `string`  | 2 bytes per character | Stores a sequence of characters, surrounded by double quotes                      |
+bei int normalerweise int benutzen, bei kommastelle double benutzen da es 15 stellen unterstützt und nicht nur 7 wie bei float SIX SEVEN.
+
+Char ist mit '' und string ist mit ""
+quotes und double quotes
