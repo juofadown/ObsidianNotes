@@ -7,3 +7,7 @@
 >Cloud Computing ist ein Modell für den allgegenwärtigen, bequemen und bedarfsgerechten Netzzugang zu einem gemeinsam genutzten Pool von konfigurierbaren Computerressourcen (z.B. Netzwerke, Server, Speicher, Anwendungen und Dienste), die mit minimalem Verwaltungsaufwand und ohne Interaktion mit dem Dienstanbieter schnell bereitgestellt und freigegeben werden können.
 
 Diese Definiton definiert die Grundlage des Cloud Computings.
+
+Die Grundlage besteht aus:
+
+# fünf wesentliche Servermerkmale
