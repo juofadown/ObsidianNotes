@@ -36,7 +36,23 @@ Jedoch gibt es ganz einmalige Projekte wie das Gründen eines Unternehmens.
 ## 1.3 Unternehmen und Betrieb
 Unternehmen und Betrieb unterscheiden sich.
 ### Unternehmen
+Hat ein oder mehrere Betriebe.
+Ein Unternehmen verfügt *in der Regel* ein Vermögen von Geld, Maschinen, Materialien usw. Es ist der **selbständige** Teil. Es ist die rechtliche und wirtschaftliche Einheit.
 
+Es umfasst:
+- den Namen
+- die Rechtsform (AG, GmbH, etc.)
+- die Finanzen
+- die Mitarbeiter
+- alle Standorte zusammen
 ### Betrieb
+Der gehört **immer** zu einem Unternehmen. Es ist der Ort an dem gearbeitet wird. Es ist der physische Ort wo etwas produziert wird oder eine Dienstleistung geschieht. Er ist **unselbständig**.
+
+Beispiele:
+- Fabrikhalle
+- Restaurant
+- Einkaufsladen
+- Werkstatt
+- Bürostandort
 
 
