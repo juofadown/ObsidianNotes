@@ -17,6 +17,14 @@ c) Projekt da es einen Beginn und ein Ende hat.
 **Aufgabe:**  
 Nenne drei Schritte der Wertschöpfungskette eines Bäckers und erkläre zu jedem, wie er Wert schafft.
 
+1. Die Zutaten kosten
+2. Das backen es gibt Wert dazu weil der Ofen Strom kostet.
+3. Der Verkauf selbst, also der zusatz der dabei dazu kommt.
+Korrektur: 
+Rohkosten:
+Zutaten sind Rohkosten die ein bestimmter Wert haben.
+Dann das Backen, hätte gesagt das ist Montage
+Und dann noch der Gewinn was auch ein Schritt ist, glabue ich.
 
 ---
 
@@ -24,9 +32,17 @@ Nenne drei Schritte der Wertschöpfungskette eines Bäckers und erkläre zu jede
 
 **Aufgabe:**  
 Markiere, ob die folgenden Tätigkeiten wertschöpfend oder nicht wertschöpfend sind:  
-a) Qualitätskontrolle  
-b) Warten auf Material  
+a) Qualitätskontrolle 
+Ja, da der Kontrollierende bezahlt werden muss.
+
+b) Warten auf Material
+Nein, das zählrt nicht.
+
 c) Verpacken des Produkts
+Ja, weil das auch wieder etwas ist was bezahlt wird.
+
+Korrektur: 
+Richtig: alles was dem Kundennutzen beiträgt gehört zur Wertschöpfung. Was heisst Kundennutzen?
 
 ---
 
@@ -34,6 +50,11 @@ c) Verpacken des Produkts
 
 **Aufgabe:**  
 Formuliere ein Ziel für ein Schulprojekt so, dass es einen klaren Soll-Zustand beschreibt.
+Was für ein Schulprojekt?
+Das Projekt soll in 2 Wochen das und das erfüllt haben und es soll mit dem und dem abgesporchen sein.
+
+
+Korrektur: ja verkackt. 
 
 ---
 
@@ -41,9 +62,12 @@ Formuliere ein Ziel für ein Schulprojekt so, dass es einen klaren Soll-Zustand 
 
 **Aufgabe:**  
 Ordne die folgenden Ziele ein: strategisch, taktisch oder operativ:  
-a) Umsatz im nächsten Jahr um 5 % erhöhen  
+a) Umsatz im nächsten Jahr um 5 % erhöhen 
+operativ
 b) Neue Abteilung bis 2030 aufbauen  
+taktisch
 c) Monatliche Liefertreue auf 98 % steigern
+strategisch
 
 ---
 
@@ -51,6 +75,7 @@ c) Monatliche Liefertreue auf 98 % steigern
 
 **Aufgabe:**  
 Ist „PC einschalten“ ein Geschäftsprozess? Begründe.
+Nein, ein Geschäftsprozess ist ein Ablauf und nicht eine einzige Aufgabe.
 
 ---
 
@@ -58,6 +83,7 @@ Ist „PC einschalten“ ein Geschäftsprozess? Begründe.
 
 **Aufgabe:**  
 Welches Modell eignet sich am besten, um Abläufe mit Inputs und Outputs zu zeigen? Begründe.
+Ich kenne keine Modelle :( sorry
 
 ---
 
@@ -65,6 +91,7 @@ Welches Modell eignet sich am besten, um Abläufe mit Inputs und Outputs zu zeig
 
 **Aufgabe:**  
 Ein Unternehmen hat drei Standorte. Welche davon sind Betriebe, und was ist das Unternehmen?
+Alle Drei Standorte des Unternehmens sind Betriebe. Das Unternehmen ist nur der Name, der rechtliche und wirtschaftliche Teil. Die Organisation und alles. Beim Betrieb wird eine Dienstleistung produziert oder bereitgestellt. Also eben eine Fabrik oder ein Laden oder ein Support ort oder so. 
 
 ---
 
@@ -73,6 +100,12 @@ Ein Unternehmen hat drei Standorte. Welche davon sind Betriebe, und was ist das 
 **Aufgabe:**  
 Nenne zu einem Beispielprozess (z. B. Bestellung im Restaurant) die Elemente:  
 Input – Verarbeitung – Output – Kunde – Prozessziel.
+Kenne ich alle nicht aber aus freestyle:
+Input ist die Bestellung die ein Kunde gibt.
+Verarbeitung ist dann das kochen des Gerichtes.
+Output ist das fertige Essen.
+Kunde ist der Kunde der Essen will.
+Prozess ist den Kunden vom Hunger zubefreien und am besten das das essen lecker ist.
 
 ---
 
@@ -81,6 +114,8 @@ Input – Verarbeitung – Output – Kunde – Prozessziel.
 **Aufgabe:**  
 Wähle ein beliebiges Unternehmen (z. B. Migros, Coop, IKEA) und beschreibe:  
 Input – Transformation – Output – Feedback.
+
+Kenn ich auch nicht :(
 
 ---
 
