@@ -1,0 +1,2 @@
+- Erklärung des ARtikels https://www.nau.ch/ort/gossau-sg/budget-2026-setzt-klare-finanzielle-prioritaten-67064045
+- 
