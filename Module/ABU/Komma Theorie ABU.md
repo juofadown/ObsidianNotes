@@ -1,0 +1,6 @@
+- Nebensatz?
+- Aufzählung?
+- aber/jedoch/sondern? -> Komma davor
+- und zwar / besondern / insbesondere / und das / also / nämlich / namentlich / vor allem / das heisst -> Komma davor
+- vor und nach einem Einschub
+- 
