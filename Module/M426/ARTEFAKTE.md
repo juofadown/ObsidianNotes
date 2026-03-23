@@ -1,2 +1,4 @@
 - Product Backlog ist ein lebendes Artefakt
+- Sprint Backlog
+- Lieferbares Produktinkrement
 - 
