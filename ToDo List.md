@@ -1,0 +1,5 @@
+- Exhibit MuG Setlist üben
+- *Ferien eingeben*
+- Steuer shit schicken
+- ABU Wochenrückblick
+- anhand NESA auf nächste Prüfung lernen
