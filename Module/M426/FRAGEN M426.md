@@ -1,0 +1,1 @@
+- Was bedeutet: "*sich wechselseitig als Experten zur Verantwortung zu ziehen*" in Lehrmittel bei Entwicklern in Kapitel 2.2 Verantwroltichkeiten
