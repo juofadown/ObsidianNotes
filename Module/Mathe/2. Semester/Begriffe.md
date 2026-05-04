@@ -1,4 +1,4 @@
-# absolute Häufigkeit
+w# absolute Häufigkeit
 Die absolute Häufigkeit eines Ergebnisses gibt an wie oft es aufgetreten ist. Sie hängt davon ab wie oft ein Zufallsexperiment durchgeführt wurde. 
 $$
 	absolute Häufigkeit:f_K = Anzahl Versuche: n
