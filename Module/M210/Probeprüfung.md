@@ -58,3 +58,6 @@ mit VSCode geöffnet.
 server.js datei erstellt und copypasted.
 dockerfile erstellt
 
+Cloud Computing ist die bedarfsabhängige Bereitstellung von IT-Ressourcen über das INternet zu nutzungabhängigen Preisen.
+
+

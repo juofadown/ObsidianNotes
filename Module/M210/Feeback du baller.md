@@ -1,0 +1,3 @@
+- Ziit iihalte bi de einzelne ufgobe
+- Krassi Doku isch nid mal so dumm, highkey nix bi theoretisch gwüsst
+- 
