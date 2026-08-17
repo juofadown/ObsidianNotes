@@ -1,5 +1,4 @@
-- Exhibit MuG Setlist üben
-- *Ferien eingeben*
-- Steuer shit schicken
-- ABU Wochenrückblick
-- anhand NESA auf nächste Prüfung lernen
+- Unit Tests lernen
+- Buch bestellen M450
+- nomol über beidi modul drüber luege
+- englisch präsi
