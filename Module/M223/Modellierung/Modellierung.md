@@ -1,9 +1,11 @@
 1. **Klassen definieren**
 Tickets
+Ticketart
 Events
-Event-Manager
-Admin
-Kunde
+**User**
+	Event-Manager
+	Admin
+	Kunde
 
 2. **Beziehungen definieren**
 
