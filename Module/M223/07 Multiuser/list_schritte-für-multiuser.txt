@@ -1,0 +1,5 @@
+- Updaten
+- Speichern
+- updatet Ticketlist zurückgeben
+
+Diese Schritte sollten alle gleichzeitig passiern damit kein zweiter Nutzer die Möglichkeit hat dazwischen einen schnelleren Kauf zu machen.
