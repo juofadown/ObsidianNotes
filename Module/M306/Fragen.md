@@ -1,0 +1,1 @@
+- Fliesst nicht das Kerngeschäft und das Tagesgeschäft miteinander ein? Basically das selbe?
