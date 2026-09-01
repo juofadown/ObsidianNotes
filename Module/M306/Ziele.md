@@ -116,3 +116,4 @@ Das Projektteam hat im Allgemeinen folgende Aufgaben:
 - An Teamsitzungen teilnehmen
 - Sich in Schulungen weiterbilden
 - Das Projektmanagement unterstützen
+# 28.08.2026

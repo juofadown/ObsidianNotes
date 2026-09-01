@@ -1,0 +1,4 @@
+- Welche Kapitel (Einleitung, Fazit, Schlusswort, etc.) haben keine Kapitel Nummer??
+- Gehört Zitate mit zu Quellenverzeichnis oder ist das ein eigenes Kapitel
+- Aktualitätsbezug. Ist das wirklich einfach einen aktuellen Artikel auswählen und dann sagen ja in St.Gallen ist ein Waldbrand passiert und deswegen schauen wir uns jetzt die umwelt politik an???
+- Im Kriterienraster für die Struktur fand ich keine Angaben wie oder wo die Erarbeitung der Ziele im Dossier stattfinden soll.
