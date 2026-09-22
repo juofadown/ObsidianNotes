@@ -12,12 +12,23 @@ Die Lernenden...
 #### Lernziel 2: erklären die Begriffe falsch positives und falsch negatives Ergebnis
 **Falsch Positives Ergebnis:** Ein falsch positives Ergebnis liegt vor wenn der Testfall fehlschlägt, obwohl sich das Testobjekt korrekt verhalten hat. 
 
-**Falsch Negatives Ergebnis:** Ein falsch negatives Ergebnis liegt vor wernn der Testfall nicht fehlschlägt, aber trotzdem ein Fehlerzustand vorhanden ist.
+**Falsch Negatives Ergebnis:** Ein falsch negatives Ergebnis liegt vor wenn der Testfall nicht fehlschlägt, aber trotzdem ein Fehlerzustand vorhanden ist.
 
 ---
 
-#### Lernziel 3: nennen Testartefakte und deren Bezeichnungen
+#### Lernziel 3: nennen Testartefakte und deren Beziehungen
+- Testbasis
+ Grundlage für alle Überlegungen. Die **Testbasis** sind alle Informationen und Dokumente mit denen man das Sollverhalten des **Testobjekts** definieren kann.
 
+- Testfall & Testlauf
+
+
+- Testbedingung
+- Testelement
+- Testsuite & Testausführungsplan
+- Testskript
+- Protokoll
+- Testkonzept & Testzeitplan
 
 #### Lernziel 4: nennen Beispiele für die 7 Grundsätze des Testens und bringen dazu je ein Beispiel aus Ihrer Erfahrung
 **1. Grundsatz**:
