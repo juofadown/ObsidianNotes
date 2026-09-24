@@ -17,18 +17,18 @@ Die Lernenden...
 ---
 
 #### Lernziel 3: nennen Testartefakte und deren Beziehungen
-- Testbasis
- Grundlage für alle Überlegungen. Die **Testbasis** sind alle Informationen und Dokumente mit denen man das Sollverhalten des **Testobjekts** definieren kann.
-
-- Testfall & Testlauf
-
-
-- Testbedingung
-- Testelement
-- Testsuite & Testausführungsplan
-- Testskript
-- Protokoll
-- Testkonzept & Testzeitplan
+| Testartefakte       | Beziehung                                     |
+| ------------------- | -------------------------------------------- |
+| Testkonzept                                                         |
+| Testausführungsplan                                                 |
+| Testfall                                                            |
+| Testbedingung                                                       |
+| Testbasis       Grundlage für alle Überlegungen zum Testen.  ungen  |
+| Testsuite                                                           |
+| Testskript                                                          |
+| Testprotokoll                                                       |
+| Testelement                                                         |
+| Testobjekt                                                          |
 
 #### Lernziel 4: nennen Beispiele für die 7 Grundsätze des Testens und bringen dazu je ein Beispiel aus Ihrer Erfahrung
 **1. Grundsatz**:
