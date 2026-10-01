@@ -21,6 +21,26 @@ Die Lernenden...
 - **Fehlerzustand**: Ein Fehlerzustand ist der effektive Grund im Code wieso das es das Problem gegeben hat. Zum Beispiel falsch eine While-Schleife programmiert. 
 - **Fehlermaskierung**: Überlappen von Fehlerzuständen so dass keine Fehlerwirkung gefunden wird.
 - **Fehlerbehandlung**: Gründe wieso Menschen im Code Fehler machen. Zb. Stress, Zeitdruck und Müdigkeit.
+
+---
+
+- Fehler: Ein Fehler ist nichterfüllung eines Sollzustands.
+- Fehlerhandlung: Eine Fehlerhandlung ist der Grund warum ein Mensch ein Fehler macht. zB Stress.
+- Fehlerwirkung: Eine Fehlerwirkung de teil im prgramm wo falsch.
+- Fehlermaskierung: Zwei Fehler sich so überlapped, das me nid mekrt das en fehler het. bzw. kein fehlerzustand.
+- Fehlerzustand ist der sichtbare teil des problems bei der ausführung.
+
+- Fehler: Ein Fehler ist die Nichterfüllung einer Anforderung. Wenn das Istverhalten nicht dem Sollverhalten entspricht.
+- Fehlerwirkung: Eine Fehlerwirkung
+- Fehlerzustand: Ein Fehlerzustand ist der Fehler im Programmcode. Er wird sichtbar wenn man die Software im Betrieb oder auf dem Rechner laufen lässt.
+- Fehlerhandlung: Grund wieso Fehler. zB. Stress
+- Fehlermaskierung: Zwei Fehlerzustand überalppen. 
+
+- Fehler: NIchterfüllung Anfoerdung, istverjhalten nicht sollverhatlen
+- Fehlerwirkung: von aussen sichbarer fehler, erst bei progarmm ausführung sichtbar
+- Fehlermaskierung: zwei überlappen fehler = null
+- Fehlerzustand: konkreter fehler im programmcoe
+- Fehlhandlung: menschlicher grund wie zb. stress
 #### Lernziel 2: erklären die Begriffe falsch positives und falsch negatives Ergebnis
 **Falsch Positives Ergebnis:** Ein falsch positives Ergebnis liegt vor wenn der Testfall fehlschlägt, obwohl sich das Testobjekt korrekt verhalten hat. 
 
