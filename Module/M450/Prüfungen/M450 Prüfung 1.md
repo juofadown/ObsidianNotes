@@ -2,9 +2,9 @@
 # Lernziele
 Die Lernenden...
 #### Lernziel 1: erläutern die Begriffe Fehler, Fehlerwirkung, Fehlerzustand, Fehlermaskierung, Fehlerhandlung
-- **Fehler**: Ein Fehler ist die nichterfüllung einer festgelegten Anforderung. Wenn das Istverhalten nicht dem Sollverhalten entspricht.
+- **Fehler**: Ein Fehler ist die nichterfüllung einer festgelegten Anforderung. Wenn das Istverhalten nicht dem Sollverhalten entspricht. Kann auch als zusammenfassender Oberbegriff genutzt werden. 
 - **Fehlerwirkung:** Eine Fehlerwirkung ist das von aussen sichtbare Fehlverhalten der Software, das bei der Ausführung des Testobjekts auf dem Rechner oder im Betrieb auftritt. Sie entsteht erst dann, wenn ein im Programmcode vorhandener Fehlerzustand bei der Ausführung durchlaufen wird.
-- **Fehlerzustand:** Ein Fehlerzustand ist die konkrete Ursache im Arbeitsergebnis, die zu einer Fehlerwirkung führen kann. *Fehlerzustände können nicht nur im Programmcode sein sondern auch in Entwicklungsdokumenten oder in der Architektur enthalten sein*
+- **Fehlerzustand:** Ein Fehlerzustand ist die konkrete Ursache im Arbeitsergebnis, die zu einer Fehlerwirkung führen kann. *Fehlerzustände können nicht nur im Programmcode sein sondern auch in Dokumenten oder in der Architektur enthalten sein*
 - **Fehlermaskierung:** Eine Fehlermaskierung ist wenn ein Fehlerzustand so mit einem weiteren Fehlerzustand überdeckt wird, dass keine Fehlerwirkung sichtbar wird. *Beispiel: Ein Fehler transferiert einem Kontostand 10.- zu viel, ein weiterer Fehler zieht 10.- zu viel ab. So überdecken sich zwei Fehler*
 - **Fehlhandlung:** Die Fehlerhandlung ist der menschliche Grund wieso es zum falschen Ergebnis oder Fehlerzustand kam. *Das kann wegen Zeitdruck, hohe Komplexität, Missverständnisse bei Anforderungen, Müdigkeit oder zu wenig Erfahrung sein.*
 
@@ -41,10 +41,25 @@ Die Lernenden...
 - Fehlermaskierung: zwei überlappen fehler = null
 - Fehlerzustand: konkreter fehler im programmcoe
 - Fehlhandlung: menschlicher grund wie zb. stress
-#### Lernziel 2: erklären die Begriffe falsch positives und falsch negatives Ergebnis
-**Falsch Positives Ergebnis:** Ein falsch positives Ergebnis liegt vor wenn der Testfall fehlschlägt, obwohl sich das Testobjekt korrekt verhalten hat. 
 
-**Falsch Negatives Ergebnis:** Ein falsch negatives Ergebnis liegt vor wenn der Testfall nicht fehlschlägt, aber trotzdem ein Fehlerzustand vorhanden ist.
+---
+
+**Fehler**: Ein Fehler ist eine nichterfüllung einer Anforderung. Wenn das Istverhalten nicht dem Sollverhalten entspricht.
+**Fehlerwirkung**: Eine Fehlerwirkung ist das Ergebnis eines Fehlerzustands. Er wird erst sichtbar beim Ausführen des Programms oder Software.
+**Fehlerzustand**: Ein Fehlerzustand ist der konkrete Fehler im Programmcode. Zum Beispiel ein Wert wurde Falsch gesetzt.
+**Fehlermaskierung**: Eine Fehlermaskierung ist wenn zwei Fehler sich so überlappen, dass keine Fehlerwirkung sichtbar ist.
+**Fehlhandlung**: Eine Fehlhandlungen sind Gründe wieso Menschen Fehler machen können. Das sind Zeitdruck, Stress, Müdigkeit usw.
+
+---
+
+#### Lernziel 2: erklären die Begriffe falsch positives und falsch negatives Ergebnis
+**Falsch Positiv**
+
+Test ist eine Krankheit.
+
+Ein **falsch positives Ergebnis** geschieht wenn das Testobjekt korrekt ist, aber trotzdem ein Fehlerzustand im Code oder in eines der Dokumente vorhanden ist.
+
+Ein **falsch negatives Ergebnis** geschieht wenn das Testobjekt nicht korrekt ist, aber der Testfall korrekt durchläuft.
 
 ---
 
@@ -59,6 +74,17 @@ bei einem falsch positivem ergebnis ist der Code fehlerfrei, doch der test schl�
 
 falsch negativ:
 bei einem falsch negativen ergebnis ist der code fehlerhaft, doch der test ist erfolgreich.
+
+---
+
+
+Falsch Positiv: Ein falsch Positiver Ergebnis liegt vor wenn das Testobjekt fehlerfrei durchläuft, aber ein Fehlerzustand im Programmcode ist.
+
+Flasch Negativ: Ein falsch negatives Ergebnis liegt vor wenn das Testobjekt rot durchläuft, aber kein Fehlerzustand im Programmcode ist.
+
+---
+
+
 #### Lernziel 3: nennen Testartefakte und deren Beziehungen
 
 | Testartefakt            | Bedeutung / Beziehung                                                                                        |
