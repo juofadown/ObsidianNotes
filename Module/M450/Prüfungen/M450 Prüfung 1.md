@@ -365,7 +365,7 @@ Wichtige Begriffe:
 **Spezial-/Sonderfälle:**
 > Ungewöhnliche, seltene oder leicht vergessene Eingaben/Situationen testen.
 
-### Wichtigster Merksatz:
+##### Wichtigster Merksatz:
 **① KLASSEN**  
 → Welche Gruppen gibt es?
 
