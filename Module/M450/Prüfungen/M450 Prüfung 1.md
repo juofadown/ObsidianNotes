@@ -8,6 +8,11 @@ Die Lernenden...
 - **Fehlermaskierung:** Eine Fehlermaskierung ist wenn ein Fehlerzustand so mit einem weiteren Fehlerzustand überdeckt wird, dass keine Fehlerwirkung sichtbar wird. *Beispiel: Ein Fehler transferiert einem Kontostand 10.- zu viel, ein weiterer Fehler zieht 10.- zu viel ab. So überdecken sich zwei Fehler*
 - **Fehlhandlung:** Die Fehlerhandlung ist der menschliche Grund wieso es zum falschen Ergebnis oder Fehlerzustand kam. *Das kann wegen Zeitdruck, hohe Komplexität, Missverständnisse bei Anforderungen, Müdigkeit oder zu wenig Erfahrung sein.*
 
+Fehlhandlung: Grund Mensch
+Fehlerzustand: Fehler im Code
+Fehlerwirkung: Von aussen sichtbare Fehler
+Fehlermaskierung: wenn halt zwei fehlerzustände sich überdeckt
+
 ---
 
 - **Fehler**: Ein Fehler ist das nichterfüllen einer Anforderung. Wenn das Istverhalten nicht dem Sollverhalten entspricht.
@@ -87,18 +92,22 @@ Flasch Negativ: Ein falsch negatives Ergebnis liegt vor wenn das Testobjekt rot 
 
 #### Lernziel 3: nennen Testartefakte und deren Beziehungen
 
-| Testartefakt            | Bedeutung / Beziehung                                                                                        |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------ |
-| **Testbasis**           | Grundlage für die Überlegungen zum Testen. Daraus werden die **Testbedingungen** abgeleitet.                 |
-| **Testbedingung**       | Beschreibt, was geprüft werden soll. Eine Testbedingung wird durch einen oder mehrere **Testfälle** geprüft. |
-| **Testfall**            | Wird auf Basis der **Testbasis** erstellt. Enthält Testdaten und prüft das **Testobjekt**.                   |
-| **Testobjekt**          | Der Teil der Software, der konkret getestet wird.                                                            |
-| **Testsuite**           | Fasst mehrere **Testfälle** zusammen, die gemeinsam ausgeführt werden.                                       |
-| **Testskript**          | Führt die **Testsuite** automatisch aus.                                                                     |
-| **Testprotokoll**       | Dokumentiert die Ergebnisse der Testausführung.                                                              |
-| **Testausführungsplan** | Legt den zeitlichen Ablauf der Testausführung fest.                                                          |
-| **Testkonzept**         | Legt fest, was für die Testdurchführung benötigt wird.                                                       |
-| **Testelement**         | Programmierte Methode, die die **Testbedingungen** überprüft.                                                |
+| Testartefakt            | Bedeutung                                                                                                                                   | Beziehung                                                                                                                                                                                                                     |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Testbasis**           | Alle Dokumente, Informationen und Kenntnisse mit denen man das Sollverhalten definieren kann. Grundlage für die Überlegungen zum Testen.    | Dient als Grundlage für die **Testbedingung** und für die Erstellung der **Testfälle**. Sie spezifiziert das Sollverhalten des **Testobjekts**.                                                                               |
+| **Testbedingung**       | Beschreibt einen bestimmten Aspekt der geprüft werden soll. Eine Funktion, ein Qualitätsmerkam oder ein strukturelles Element.              | Wird von der **Testbasis** abgeleitet. Wird durch einen oder mehrere **Testfälle** geprüft. Kann einem oder mehreren **Testelementen** zugeordnet werden.                                                                     |
+| **Testfall**            | Beschreibt was unter bestimmten Bedingungen getestet wird. Enthält Testdaten wie Vorbedingungen, Eingabedaten und erwartete Ergebnisse.     | Wird auf Grundlage der **Testbasis** und unter Berücksichtigung der **Testbedingungen** erstellt. Er prüft das **Testobjekt** beziehungsweise ein bestimmtes **Testelement** und wird in einer **Testsuite** zusammengefasst. |
+| **Testlauf**            | Bezeichnet die tatsächliche Ausführung des **Testfalls** mit den entsprechenden Testdaten. Am Ende werden Soll und Istverhalten verglichen. | Führt einen **Testfall** am **Testobjekt** aus. Die Ergebnisse werden im **Testprotokoll** festgehalten.                                                                                                                      |
+| **Testobjekt**          | Der Teil der Software, oder eine Komponente davon, das konkret getestet wird.                                                               | Sollverhalten des Testobjekts definiert anhand **Testbasis**. Mit **Testfällen** wird es geprüft. Dabei werden **Testelemente** untersucht.                                                                                   |
+| **Testsuite**           | Fasst mehrere **Testfälle** zusammen, die gemeinsam ausgeführt werden.                                                                      | Enthält mehrere **Testfälle** und wird entsprechend dem **Testausführungplan** ausgeführt. Es kann durch ein **Testskript** automatisiert werden.                                                                             |
+| **Testskript**          | Führt die **Testsuite** automatisch aus. Enthält Anweisungen und Aktionen dafür.                                                            | Automatisiert die Ausführung einer **Testsuite**. Dabei erstellt sie auch die Vorbedingungen macht die nötigen Aufräumarbeiten.                                                                                               |
+| **Testprotokoll**       | Dokumentiert die Ergebnisse der Testläufe und ermöglicht die Bewertung der Testergebnisse.                                                  | Enthält die Ergebnisse der **Testläufe**. Diese Ergebnisse werden dann mit den Ergebnissen aus den **Testfällen** verglichen. Die Ergebnisse fliessen in den **Testbericht**.                                                 |
+| **Testausführungsplan** | Legt den zeitlichen Ablauf der Ausführung der Testsuites fest.                                                                              | Zeitlicher Ablauf der Testsuites wird hier festgelegt.                                                                                                                                                                        |
+| **Testkonzept**         | Legt fest, was für die Testdurchführung benötigt wird. (Testobjekte, Testziele, Testverfahren usw.)                                         | Gibt den Rahmen für die Testaktivitäten vor.                                                                                                                                                                                  |
+| **Testelement**         | Programmierte Methode, die die **Testbedingungen** überprüft.                                                                               | Wird aus dem **Testobjekt** ermittelt und durch die entpsrechenden **Testfälle** überprüft. Es steht in Verbindung mit der jeweiligen **Testbedingung**.                                                                      |
+| **Testzeitplan**        | Legt fest, wann die einzelnen Testaktivitäten stattfinden und wie sie zeitlich koordiniert werdne.                                          | Definiert die zeitliche Planung aus dem **Testkonzept**.                                                                                                                                                                      |
+
+
 ![[Pasted image 20260924162225.png]]
 
 ---
