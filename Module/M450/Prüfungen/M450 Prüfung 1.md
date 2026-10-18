@@ -109,6 +109,7 @@ Flasch Negativ: Ein falsch negatives Ergebnis liegt vor wenn das Testobjekt rot 
 
 
 ![[Pasted image 20260924162225.png]]
+![[Pasted image 20260924162225 - Copy.png]]
 
 ---
 
